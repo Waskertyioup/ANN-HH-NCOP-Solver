@@ -1,0 +1,15 @@
+tests/batch3/alkyl.bch
+tests/batch3/alkylbis.bch
+tests/batch3/chem-1.bch
+tests/batch3/chem.bch
+tests/batch3/chembis.bch
+tests/batch3/ex6_1_3.bch
+tests/batch3/ex6_2_10.bch
+tests/batch3/ex8_5_1bis.bch
+tests/batch3/haverly.bch
+tests/batch3/house.bch
+tests/batch3/m4wd.bch
+tests/batch3/polygon25.bch
+tests/batch3/pressure-vessel.bch
+tests/batch3/sambal.bch
+tests/batch3/ship.bch
